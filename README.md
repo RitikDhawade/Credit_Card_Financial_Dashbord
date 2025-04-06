@@ -20,3 +20,4 @@ steps : create some new columns that is
                             )) 
 
 
+4) Create a new Measure for Revenue , Previous_week_revenue, Current_week_revenue and Week_over_week revenue to understand data more better way
